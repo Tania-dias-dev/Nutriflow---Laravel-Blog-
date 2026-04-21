@@ -42,7 +42,7 @@ A study project built with Laravel, created while learning the framework and PHP
 ---
 
 ###  Top section of the Home Page
-![Header](screenshots/laravelhomepage.png)
+![Header](screenshots/laravelhomepage2.png)
 
 ---
 
